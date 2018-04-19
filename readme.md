@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjdelee%2Ftinymce.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjdelee%2Ftinymce?ref=badge_shield)
+
 TinyMCE - JavaScript Library for Rich Text Editing
 ===================================================
 
@@ -97,3 +99,7 @@ __How to Contribute to the Docs__
 Docs are hosted on Github in the [tinymce-docs](https://github.com/tinymce/tinymce-docs) repo.
 
 [How to contribute](https://www.tinymce.com/docs/advanced/contributing-docs/) to the docs, including a style guide, can be found on the TinyMCE website.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjdelee%2Ftinymce.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjdelee%2Ftinymce?ref=badge_large)
